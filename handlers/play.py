@@ -185,7 +185,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text= JOIN GROUP",
+                            text="JOIN GROUP",
                             url=f"https://t.me/akganthesm_chat_box")
 
                 ]
