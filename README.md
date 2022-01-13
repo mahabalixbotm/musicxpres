@@ -30,3 +30,6 @@
 ### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/AKGceden)
+  
+https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmahabalixbotm%2Fmusicxpres&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CBOT_USERNAME%2CDURATION_LIMIT%2CSESSION_NAME%2CSUDO_USERS&DURATION_LIMITDefault=60&referralCode=cm5uFK
+  
