@@ -34,12 +34,12 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/3809ee0cf6a7567e86a5c.jpg",
+        photo=f"https://telegra.ph/file/6a4120d98537064753895.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-BOT FAST LIKE FAST AS FUCK](https://t.me/AKG_ANTHESM)
+BOT FAST LIKE FAST AS FUCK](https://t.me/xmahabalix)
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [AKG_ANTHESM](https://t.me/Caden_OP)
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [bakchodi point](https://anthesm_chat_box)
+┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [MAHABALIX](https://t.me/xmahabalix)
+┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [bakchodi point](https://xmahabalix)
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
@@ -58,14 +58,17 @@ BOT FAST LIKE FAST AS FUCK](https://t.me/AKG_ANTHESM)
 @Client.on_message(commandpro(["/start", "/alive", "legend"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/3809ee0cf6a7567e86a5c.jpg",
+        photo=f"https://telegra.ph/file/6a4120d98537064753895.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "JOIN FOR BAKCHODI", url=f"https://t.me/anthesm_chat_box")
+                        "JOIN ", url=f"https://t.me/xmahabalix")
                 ]
             ]
         ),
     )
+
+
+START_TIME = datetime.utcnow()
