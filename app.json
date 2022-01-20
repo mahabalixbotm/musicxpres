@@ -2,7 +2,7 @@
   "name": "AKG-ANTHESM Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/mahabalix/AKGceden",
+  "repository": "https://github.com/mahabalixbotm/musicxpres",
   "stack": "container",
   "env": {
     "SESSION_NAME": {

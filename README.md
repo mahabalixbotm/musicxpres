@@ -2,7 +2,7 @@
 
 ###AKG MUSIC BOT 𝗠𝘂𝘀𝗶𝗰 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://github.com/mahabalix/AKGceden/blob/main/etc/tg_vc_bot.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://github.com/mahabalixbotm/musicxpres/blob/main/etc/tg_vc_bot.png" width="300"></a></p>
 
 
 
@@ -29,4 +29,4 @@
 [[GENRATE STRING](https://replit.com/@BoooCreative/Session-Generater#main.py)]
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/AKGceden)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalixbotm/musicxpres)
